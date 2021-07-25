@@ -5,7 +5,7 @@ namespace Do_An2.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Do_An2.Model1>
+    internal sealed class Configuration : DbMigrationsConfiguration<Do_An2.DAL.Model1>
     {
         public Configuration()
         {
@@ -13,7 +13,7 @@ namespace Do_An2.Migrations
             AutomaticMigrationDataLossAllowed = true;
         }
 
-        protected override void Seed(Do_An2.Model1 context)
+        protected override void Seed(Do_An2.DAL.Model1 context)
         {
             //  This method will be called after migrating to the latest version.
 

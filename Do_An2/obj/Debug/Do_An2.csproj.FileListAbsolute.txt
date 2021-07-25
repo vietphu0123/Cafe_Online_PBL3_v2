@@ -32,3 +32,262 @@ C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
 C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Information_User.resources
 C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Login.resources
 C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Login_User.resources
+C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Delivery.resources
+C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+C:\Users\ho\source\repos\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.csprojAssemblyReference.cache
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Delivery.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Form11.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Information_User.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.frmManager.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Form1.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Form12.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Order_Manager.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.QuanLyMenu.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.ThêmUser.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Menu.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Giỏ_Hàng.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Login.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Login_User.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Properties.Resources.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.QuanLyOrder.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Quản_Lý_Các_Cửa_Hàng.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.TaoTKManager.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.ThongTinManager.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Thêm_Cửa_Hàng.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.UpdateDoUong.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.csproj.GenerateResource.cache
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.exe
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.pdb
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\Do_An2.exe.config
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\Do_An2.exe
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\Do_An2.pdb
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\EntityFramework.dll
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\EntityFramework.xml
+C:\Users\ho\Desktop\Pr\Do_An2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.csproj.CopyComplete
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.Manager_QL.resources
+C:\Users\ho\Desktop\Pr\Do_An2\obj\Debug\Do_An2.csproj.CoreCompileInputs.cache
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\Do_An2.exe.config
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\Do_An2.exe
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\Do_An2.pdb
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\EntityFramework.dll
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\EntityFramework.xml
+C:\Users\ho\Desktop\pl\Do_An2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.csprojAssemblyReference.cache
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Delivery.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Form11.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Information_User.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.frmManager.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Form1.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Manager_QL.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Form12.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Order_Manager.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.QuanLyMenu.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.ThêmUser.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Menu.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Giỏ_Hàng.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Login.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Login_User.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Properties.Resources.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.QuanLyOrder.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Quản_Lý_Các_Cửa_Hàng.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.TaoTKManager.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.ThongTinManager.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Thêm_Cửa_Hàng.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.UpdateDoUong.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.csproj.GenerateResource.cache
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.csproj.CoreCompileInputs.cache
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.csproj.CopyComplete
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.exe
+C:\Users\ho\Desktop\pl\Do_An2\obj\Debug\Do_An2.pdb
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\Do_An2.exe.config
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\Do_An2.exe
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\Do_An2.pdb
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\EntityFramework.dll
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\EntityFramework.xml
+C:\Users\ho\Desktop\Thông\Do_An2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.csprojAssemblyReference.cache
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Delivery.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Form11.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Information_User.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.frmManager.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Form1.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Manager_QL.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Form12.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Order_Manager.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.QuanLyMenu.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.ThêmUser.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Menu.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Giỏ_Hàng.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Login.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Login_User.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Properties.Resources.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.QuanLyOrder.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Quản_Lý_Các_Cửa_Hàng.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.TaoTKManager.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.ThongTinManager.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Thêm_Cửa_Hàng.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.UpdateDoUong.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.csproj.GenerateResource.cache
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.csproj.CoreCompileInputs.cache
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.csproj.CopyComplete
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.exe
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.pdb
+C:\Users\ho\Desktop\Thông\Do_An2\obj\Debug\Do_An2.test.resources
+E:\New folder (5)\Thông\Do_An2\bin\Debug\Do_An2.exe.config
+E:\New folder (5)\Thông\Do_An2\bin\Debug\Do_An2.exe
+E:\New folder (5)\Thông\Do_An2\bin\Debug\Do_An2.pdb
+E:\New folder (5)\Thông\Do_An2\bin\Debug\EntityFramework.dll
+E:\New folder (5)\Thông\Do_An2\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (5)\Thông\Do_An2\bin\Debug\EntityFramework.xml
+E:\New folder (5)\Thông\Do_An2\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.csprojAssemblyReference.cache
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Delivery.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Form11.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.test.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Information_User.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.frmManager.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Form1.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Manager_QL.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Form12.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Order_Manager.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.QuanLyMenu.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.ThêmUser.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Menu.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Giỏ_Hàng.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Login.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Login_User.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Properties.Resources.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.QuanLyOrder.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Quản_Lý_Các_Cửa_Hàng.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.TaoTKManager.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.ThongTinManager.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Thêm_Cửa_Hàng.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.UpdateDoUong.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.csproj.GenerateResource.cache
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.csproj.CoreCompileInputs.cache
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.csproj.CopyComplete
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.exe
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.pdb
+E:\New folder (5)\Thông\Do_An2\obj\Debug\Do_An2.frmManagerOrder.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\Do_An2.exe.config
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\Do_An2.exe
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\Do_An2.pdb
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\EntityFramework.dll
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\EntityFramework.xml
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.csprojAssemblyReference.cache
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Delivery.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Form11.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmManagerOrder.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.test.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Information_User.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmManager.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Form1.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Manager_QL.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Form12.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Order_Manager.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.QuanLyMenu.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.ThêmUser.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Menu.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Giỏ_Hàng.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Login.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Login_User.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Properties.Resources.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.QuanLyOrder.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Quản_Lý_Các_Cửa_Hàng.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.TaoTKManager.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.ThongTinManager.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Thêm_Cửa_Hàng.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.UpdateDoUong.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.csproj.GenerateResource.cache
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.csproj.CoreCompileInputs.cache
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.csproj.CopyComplete
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.exe
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.pdb
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.User.Lich_Su_Order.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.ThemDoUong.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmCompanyInfo.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmManagerCompany.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmManagerInfo.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmNguyenLieu.resources
+C:\Users\ho\Downloads\doan (2)\Thông\Do_An2\obj\Debug\Do_An2.frmOrderDetail.resources
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\Do_An2.exe.config
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\Do_An2.exe
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\Do_An2.pdb
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\EntityFramework.dll
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\EntityFramework.xml
+C:\Users\Vietphu\Downloads\Do_An2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.csproj.AssemblyReference.cache
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.ThemDoUong.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Delivery.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Delivery_Detail.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Form11.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmCompanyInfo.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmManagerCompany.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmManagerInfo.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmManagerOrder.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmNguyenLieu.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmOrderDetail.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Giao_Hàng.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Information_User.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.frmManager.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Thanh_Toán.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Xử_Lý_Giao_Hàng.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.User.Lich_Su_Order.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Form1.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Manager_QL.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Form12.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Order_Manager.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.QuanLyMenu.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.ThêmUser.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Menu.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Giỏ_Hàng.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Login.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Login_User.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Properties.Resources.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.QuanLyOrder.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Quản_Lý_Các_Cửa_Hàng.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.TaoTKManager.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.ThongTinManager.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Thêm_Cửa_Hàng.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.UpdateDoUong.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.Đổi_pass.resources
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.csproj.GenerateResource.cache
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.csproj.CoreCompileInputs.cache
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.csproj.CopyComplete
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.exe
+C:\Users\Vietphu\Downloads\Do_An2\obj\Debug\Do_An2.pdb
