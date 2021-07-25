@@ -78,7 +78,6 @@ namespace Do_An2.DAL
             {
                 return false;
             }
-            return false;
         }
         public dynamic getOrder_Status(int id,string status,DateTime date)
         {

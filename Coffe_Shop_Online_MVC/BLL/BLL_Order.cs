@@ -23,7 +23,7 @@ namespace Do_An2.BLL
         { }
         public bool insert_Order(DTO.Order or,List<Cart> lca)
         {
-            DAL.DAL_Order.Instance.insert_Order(or,lca);
+            return DAL.DAL_Order.Instance.insert_Order(or,lca);
         }
         public dynamic getOrder_Status(int id, string status, DateTime date)
         {

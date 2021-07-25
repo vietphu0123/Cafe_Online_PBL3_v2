@@ -92,7 +92,7 @@ namespace Do_An2.DAL
             }
             catch (Exception e)
             {
-                return "không thành công";
+                return "không thành công"+e.Message;
             }
         }
         public bool check_Account_Manager(string name)
